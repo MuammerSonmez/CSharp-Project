@@ -1,0 +1,14 @@
+C:\Users\muamm\source\repos\EventTask-00\EventTask-00\bin\Debug\net8.0\EventTask-00.exe
+C:\Users\muamm\source\repos\EventTask-00\EventTask-00\bin\Debug\net8.0\EventTask-00.deps.json
+C:\Users\muamm\source\repos\EventTask-00\EventTask-00\bin\Debug\net8.0\EventTask-00.runtimeconfig.json
+C:\Users\muamm\source\repos\EventTask-00\EventTask-00\bin\Debug\net8.0\EventTask-00.dll
+C:\Users\muamm\source\repos\EventTask-00\EventTask-00\bin\Debug\net8.0\EventTask-00.pdb
+C:\Users\muamm\source\repos\EventTask-00\EventTask-00\obj\Debug\net8.0\EventTask-00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muamm\source\repos\EventTask-00\EventTask-00\obj\Debug\net8.0\EventTask-00.AssemblyInfoInputs.cache
+C:\Users\muamm\source\repos\EventTask-00\EventTask-00\obj\Debug\net8.0\EventTask-00.AssemblyInfo.cs
+C:\Users\muamm\source\repos\EventTask-00\EventTask-00\obj\Debug\net8.0\EventTask-00.csproj.CoreCompileInputs.cache
+C:\Users\muamm\source\repos\EventTask-00\EventTask-00\obj\Debug\net8.0\EventTask-00.dll
+C:\Users\muamm\source\repos\EventTask-00\EventTask-00\obj\Debug\net8.0\refint\EventTask-00.dll
+C:\Users\muamm\source\repos\EventTask-00\EventTask-00\obj\Debug\net8.0\EventTask-00.pdb
+C:\Users\muamm\source\repos\EventTask-00\EventTask-00\obj\Debug\net8.0\EventTask-00.genruntimeconfig.cache
+C:\Users\muamm\source\repos\EventTask-00\EventTask-00\obj\Debug\net8.0\ref\EventTask-00.dll

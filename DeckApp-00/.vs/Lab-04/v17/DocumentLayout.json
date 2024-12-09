@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muamm\\source\\repos\\Lab-04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFD2554-E020-441C-BEE5-BF887B3BB446}|Lab-04\\Lab-04.csproj|c:\\users\\muamm\\source\\repos\\lab-04\\lab-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFD2554-E020-441C-BEE5-BF887B3BB446}|Lab-04\\Lab-04.csproj|solutionrelative:lab-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muamm\\source\\repos\\Lab-04\\Lab-04\\Program.cs",
+              "RelativeDocumentMoniker": "Lab-04\\Program.cs",
+              "ToolTip": "C:\\Users\\muamm\\source\\repos\\Lab-04\\Lab-04\\Program.cs",
+              "RelativeToolTip": "Lab-04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:09:50.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\muamm\source\repos\App00\App00\bin\Debug\net8.0\App00.exe
+C:\Users\muamm\source\repos\App00\App00\bin\Debug\net8.0\App00.deps.json
+C:\Users\muamm\source\repos\App00\App00\bin\Debug\net8.0\App00.runtimeconfig.json
+C:\Users\muamm\source\repos\App00\App00\bin\Debug\net8.0\App00.dll
+C:\Users\muamm\source\repos\App00\App00\bin\Debug\net8.0\App00.pdb
+C:\Users\muamm\source\repos\App00\App00\obj\Debug\net8.0\App00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muamm\source\repos\App00\App00\obj\Debug\net8.0\App00.AssemblyInfoInputs.cache
+C:\Users\muamm\source\repos\App00\App00\obj\Debug\net8.0\App00.AssemblyInfo.cs
+C:\Users\muamm\source\repos\App00\App00\obj\Debug\net8.0\App00.csproj.CoreCompileInputs.cache
+C:\Users\muamm\source\repos\App00\App00\obj\Debug\net8.0\App00.dll
+C:\Users\muamm\source\repos\App00\App00\obj\Debug\net8.0\refint\App00.dll
+C:\Users\muamm\source\repos\App00\App00\obj\Debug\net8.0\App00.pdb
+C:\Users\muamm\source\repos\App00\App00\obj\Debug\net8.0\App00.genruntimeconfig.cache
+C:\Users\muamm\source\repos\App00\App00\obj\Debug\net8.0\ref\App00.dll

@@ -1,0 +1,14 @@
+C:\Users\muamm\source\repos\CollectionTask-00\CollectionTask-00\bin\Debug\net8.0\CollectionTask-00.exe
+C:\Users\muamm\source\repos\CollectionTask-00\CollectionTask-00\bin\Debug\net8.0\CollectionTask-00.deps.json
+C:\Users\muamm\source\repos\CollectionTask-00\CollectionTask-00\bin\Debug\net8.0\CollectionTask-00.runtimeconfig.json
+C:\Users\muamm\source\repos\CollectionTask-00\CollectionTask-00\bin\Debug\net8.0\CollectionTask-00.dll
+C:\Users\muamm\source\repos\CollectionTask-00\CollectionTask-00\bin\Debug\net8.0\CollectionTask-00.pdb
+C:\Users\muamm\source\repos\CollectionTask-00\CollectionTask-00\obj\Debug\net8.0\CollectionTask-00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muamm\source\repos\CollectionTask-00\CollectionTask-00\obj\Debug\net8.0\CollectionTask-00.AssemblyInfoInputs.cache
+C:\Users\muamm\source\repos\CollectionTask-00\CollectionTask-00\obj\Debug\net8.0\CollectionTask-00.AssemblyInfo.cs
+C:\Users\muamm\source\repos\CollectionTask-00\CollectionTask-00\obj\Debug\net8.0\CollectionTask-00.csproj.CoreCompileInputs.cache
+C:\Users\muamm\source\repos\CollectionTask-00\CollectionTask-00\obj\Debug\net8.0\CollectionTask-00.dll
+C:\Users\muamm\source\repos\CollectionTask-00\CollectionTask-00\obj\Debug\net8.0\refint\CollectionTask-00.dll
+C:\Users\muamm\source\repos\CollectionTask-00\CollectionTask-00\obj\Debug\net8.0\CollectionTask-00.pdb
+C:\Users\muamm\source\repos\CollectionTask-00\CollectionTask-00\obj\Debug\net8.0\CollectionTask-00.genruntimeconfig.cache
+C:\Users\muamm\source\repos\CollectionTask-00\CollectionTask-00\obj\Debug\net8.0\ref\CollectionTask-00.dll
